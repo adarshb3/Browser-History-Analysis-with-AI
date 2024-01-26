@@ -12,12 +12,13 @@ This Streamlit application provides an interactive interface for analyzing brows
 - Interactive chatbot for requesting and displaying custom visualizations.
 
 ## **Installation**
+
 To set up the project, clone the repository and install the required dependencies.
 
-Clone the repository:
-'''bash
-Copy code
+**Clone the repository:**
+```bash
 git clone https://github.com/adarshb3/Browser-History-Analysis-with-AI
+
 Navigate to the project directory:
 '''bash
 Copy code
