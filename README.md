@@ -16,17 +16,13 @@ This Streamlit application provides an interactive interface for analyzing brows
 To set up the project, clone the repository and install the required dependencies.
 
 **Clone the repository:**
-```bash
-git clone https://github.com/adarshb3/Browser-History-Analysis-with-AI
-'''bash
+'git clone https://github.com/adarshb3/Browser-History-Analysis-with-AI/'
 
 Navigate to the project directory:
+'cd [project-directory]'
 
-Copy code
-cd [project-directory]
 Install the required packages:
-Copy code
-pip install -r requirements.txt
+'pip install -r requirements.txt'
 
 ## **Usage**
 To run the application:
