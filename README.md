@@ -17,7 +17,7 @@ To set up the project, clone the repository and install the required dependencie
 Clone the repository:
 bash
 Copy code
-git clone [repository-url]
+git clone [(https://github.com/adarshb3/Browser-History-Analysis-with-AI)]
 Navigate to the project directory:
 bash
 Copy code
