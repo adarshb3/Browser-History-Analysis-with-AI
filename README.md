@@ -1,4 +1,4 @@
-# [Browser History Analysis App with AI]([https://browser-history-analysis-with-ai-aytgqhs3u9ujbzt9mjdmte.streamlit.app/)
+# [Browser History Analysis App with AI](https://browser-history-analysis-with-ai-aytgqhs3u9ujbzt9mjdmte.streamlit.app)
 
 ## **Overview**
 
